@@ -1,0 +1,23 @@
+Visão Geral do Projeto: Aplicação Web em Laravel para Gerenciamento de Salões de Manicure
+
+O projeto consiste no desenvolvimento de uma aplicação web em Laravel voltada para o gerenciamento de salões de manicure. A aplicação tem como objetivo oferecer uma solução abrangente para auxiliar os salões de manicure a melhorar sua eficiência operacional, agendamento, controle de estoque, geração de relatórios e proporcionar uma experiência aprimorada para clientes e funcionários.
+
+A aplicação contará com diversos módulos e funcionalidades essenciais, incluindo:
+
+1. Cadastro de clientes: Permitirá o cadastro e armazenamento das informações dos clientes, como nome, telefone, endereço e preferências, facilitando o gerenciamento de histórico de serviços e comunicação personalizada.
+
+2. Agendamento de serviços: Oferecerá uma interface intuitiva para que os clientes possam agendar horários para os serviços de manicure, selecionando o serviço desejado, o profissional disponível e o horário conveniente. Além disso, os funcionários poderão visualizar e gerenciar a agenda de serviços em tempo real.
+
+3. Controle de estoque: Possibilitará o registro e monitoramento do estoque de produtos utilizados no salão de manicure, como esmaltes, removedores, algodão, entre outros. O sistema poderá enviar notificações de baixo estoque, facilitando a reposição e evitando a falta de produtos essenciais.
+
+4. Relatórios de vendas e desempenho: Permitirá a geração de relatórios que apresentem informações sobre as vendas realizadas no salão de manicure, como valores totais, serviços mais solicitados, clientes frequentes, entre outros indicadores relevantes. Esses relatórios auxiliarão os proprietários a tomar decisões estratégicas e avaliar o desempenho do salão.
+
+5. Integração com a API do Google Agenda: Através dessa integração, os agendamentos feitos na aplicação serão sincronizados automaticamente com a agenda pessoal da manicure no Google Agenda. Isso proporcionará uma visão consolidada dos compromissos, evitando conflitos e facilitando o gerenciamento dos horários.
+
+6. Envio de mensagens via API do WhatsApp: Utilizando a API do WhatsApp, o sistema poderá enviar mensagens de aviso e confirmação de agendamento aos clientes, contribuindo para a redução de faltas e melhorando a comunicação com os clientes de forma conveniente.
+
+Ao desenvolver essa aplicação em Laravel, buscamos fornecer uma solução completa e personalizável, que atenda às necessidades específicas dos salões de manicure. A aplicação terá uma interface intuitiva, com design responsivo, garantindo acessibilidade em dispositivos móveis e desktop.
+
+Além disso, a segurança dos dados será uma prioridade, com a implementação de medidas de proteção, como criptografia e controle de acesso, para garantir a confidencialidade e integridade das informações dos clientes.
+
+Em resumo, o projeto visa a criação de uma aplicação web em Laravel que ofereça uma gestão eficiente para salões de manicure, abrangendo desde o agendamento até o controle de estoque, relatórios e integração com ferramentas de comunicação. A aplicação será uma aliada estratégica para melhorar a produtividade, a experiência do cliente e a tomada de decisões no contexto dos salões de manicure.

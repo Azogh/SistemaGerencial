@@ -1,0 +1,26 @@
+A justificativa para a criação de uma aplicação web em Laravel para o gerenciamento de salões de manicure pode ser embasada em teorias e práticas de programação, bem como nas abordagens de gerenciamento. Vamos explorar alguns pontos relevantes:
+
+1. Laravel como framework de desenvolvimento web:
+   - Laravel é um framework PHP amplamente utilizado, conhecido por sua elegância, modularidade e facilidade de uso. Ele segue os princípios do MVC (Model-View-Controller), proporcionando uma separação clara entre lógica de negócio, apresentação e manipulação de dados.
+   - A arquitetura MVC do Laravel facilita a manutenção e escalabilidade da aplicação, permitindo que diferentes partes do sistema sejam desenvolvidas de forma independente.
+   - O uso de um framework bem estabelecido como o Laravel proporciona uma base sólida para o desenvolvimento da aplicação, garantindo boas práticas de programação e segurança.
+
+2. Princípios da programação orientada a objetos (POO):
+   - A POO é uma abordagem de programação que se baseia na organização do código em objetos, que encapsulam dados e comportamentos relacionados.
+   - Ao desenvolver a aplicação em Laravel, será possível aproveitar os conceitos da POO para criar classes e modelos que representem entidades como clientes, agendamentos, estoque, relatórios, etc.
+   - A utilização da POO promove uma maior reutilização de código, facilita a manutenção e melhora a legibilidade e compreensão do sistema como um todo.
+
+3. Gerenciamento de projetos ágeis:
+   - Ao criar uma aplicação em Laravel para o gerenciamento de salões de manicure, é recomendável adotar abordagens ágeis de gerenciamento de projetos, como o Scrum ou o Kanban.
+   - Essas metodologias valorizam a comunicação frequente com os stakeholders, iterações curtas e entregas contínuas, permitindo uma adaptação mais rápida a mudanças e feedbacks dos usuários.
+   - A aplicação em Laravel pode ser desenvolvida em sprints, com a definição de incrementos de funcionalidades a serem entregues em cada iteração, facilitando a validação e o ajuste do produto de acordo com as necessidades dos salões de manicure.
+
+4. Segurança de dados e proteção da privacidade:
+   - A proteção dos dados dos clientes e do salão de manicure é uma preocupação primordial na criação da aplicação web. Teorias de segurança da informação e proteção de dados pessoais podem ser consideradas para embasar as práticas adotadas.
+   - O Laravel oferece recursos de segurança embutidos, como a proteção contra ataques de injeção SQL, criptografia de dados e autenticação de usuários. Essas medidas ajudam a prevenir violações de segurança e garantir a confidencialidade e integridade dos dados.
+
+5. Boas práticas de UX (User Experience):
+   - O design da aplicação web em Laravel deve levar em consideração as teorias e práticas de UX para oferecer uma experiência agradável e intuitiva aos usuários.
+   - Princípios de usabilidade, como simplicidade, consistência, feedbacks visuais e fácil navegação, podem ser aplicados para garantir que os clientes e funcionários dos salões de manicure tenham uma interação eficiente com a aplicação.
+
+Ao embasar a justificativa da criação da aplicação web em Laravel para o gerenciamento de salões de manicure em teorias de programação e gerenciamento, é possível demonstrar uma abordagem sólida e fundamentada, ressaltando a qualidade técnica e os benefícios práticos que a aplicação pode trazer para o negócio.

@@ -1,0 +1,15 @@
+
+Requisitos Funcionais	Descrição
+RF1: Cadastro de clientes	O sistema deve permitir o cadastro de informações dos clientes, como nome, telefone, endereço e preferências.
+RF2: Agendamento	Os clientes e funcionários devem poder agendar horários para os serviços de manicure. O sistema deve oferecer uma interface intuitiva para selecionar o serviço desejado, o profissional disponível e o horário conveniente.
+RF3: Controle de estoque	O sistema deve permitir o registro e monitoramento do estoque de produtos utilizados no salão de manicure, como esmaltes, removedores, algodão, entre outros.
+RF4: Relatórios de vendas	Deve ser possível gerar relatórios que apresentem informações sobre as vendas realizadas no salão de manicure, incluindo valores totais, serviços mais solicitados, clientes frequentes, entre outros indicadores relevantes.
+RF5: Controle de acesso	O sistema deve possuir diferentes níveis de acesso, permitindo que apenas funcionários autorizados tenham permissão para acessar determinadas funcionalidades ou informações sensíveis.
+RF6: Integração com a API do Google Agenda	O sistema deve se integrar à API do Google Agenda para permitir a sincronização automática dos agendamentos feitos no sistema com a agenda pessoal da manicure, garantindo que ela possa visualizar e gerenciar seus compromissos em um único lugar.
+RF7: Envio de mensagens via API do WhatsApp	O sistema deve utilizar a API do WhatsApp para enviar mensagens de aviso e confirmação de agendamento para os clientes, utilizando o WhatsApp como canal de comunicação. Isso ajudará a lembrar os clientes sobre seus agendamentos e confirmar sua presença de forma conveniente.
+Requisitos Não Funcionais	Descrição
+RNF1: Usabilidade	A interface do sistema deve ser intuitiva e de fácil utilização, garantindo uma experiência agradável para os usuários.
+RNF2: Desempenho	O sistema deve ser responsivo e ágil, permitindo um tempo de resposta rápido para a realização de agendamentos, buscas e geração de relatórios, mesmo em momentos de maior demanda.
+RNF3: Segurança	O sistema deve garantir a segurança dos dados dos clientes, como informações pessoais e financeiras, através de técnicas adequadas de criptografia e controle de acesso.
+RNF4: Confiabilidade	O sistema deve ser confiável, garantindo que as informações sejam armazenadas corretamente e que não ocorram perdas de dados.
+RNF5: Portabilidade	O sistema deve ser acessível a partir de diferentes dispositivos (computadores, tablets, smartphones) e navegadores, garantindo flexibilidade e facilidade de uso.
